@@ -1,5 +1,5 @@
-create database studentdb;
-use studentdb;
+CREATE DATABASE studentdb;
+USE studentdb;
 
 CREATE TABLE student(
 	rollno INTEGER(10),

@@ -31,4 +31,4 @@ after that it should sort all names and print.
 10. Create student registration form which contains all above fields.
    
 
-** Java file should be renamed with class name **
+> Java file should be renamed with class name 

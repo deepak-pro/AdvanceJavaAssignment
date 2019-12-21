@@ -11,7 +11,7 @@ class Student{
 		this.age = age ;
 	} 
 	public String toString(){
-		return (name + " have " + marks + " marks has age " + age ) ;
+		return (name + " have " + marks + " marks, age is" + age ) ;
 	}
 }
 

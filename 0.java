@@ -16,8 +16,6 @@ class ArrayListDemo {
 		if(list.contains(5))
 			System.out.println("List contains 5") ;
 
-		System.out.println("Index of 3 is " + index) ;
-
 		Iterator i = list.iterator();
 		while(i.hasNext()){
 			System.out.println(i.next());

@@ -6,7 +6,7 @@ class Student{
 	int marks ;
 	int age ;
 	int rollno;
-	Student(String name , int marks, int age, int roll no){
+	Student(String name , int marks, int age, int rollno){
 		this.name = name ;
 		this.marks = marks ;
 		this.age = age ;

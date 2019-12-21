@@ -3,8 +3,6 @@ import java.io.* ;
 
 class ArrayListDemo {
 	public static void main(String[] args) {
-		System.out.println("Hello ") ;
-
 		ArrayList<Integer> list = new ArrayList<Integer>();
 		list.add(2);
 		list.add(1);

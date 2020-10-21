@@ -46,13 +46,13 @@ class DemoEmployee {
 		for(int i=0 ; i<n ; ++i) {
 			System.out.println("Enter detail of record number " + (i+1));
 			System.out.print("Enter code>");
-			int code = scan.nextInt();
-			scan.nextLine();
+			int code = Integer.parseInt(scan.nextLine());
+			//scan.nextLine();
 			System.out.print("Enter name>");
 			String name = scan.nextLine();
 			System.out.print("Enter the salary>");
-			int salary = scan.nextInt();
-			scan.nextLine();
+			int salary = Integer.parseInt(scan.nextLine());
+			//scan.nextLine();
 			System.out.print("Enter Designation>");
 			String Designation = scan.nextLine();
 
